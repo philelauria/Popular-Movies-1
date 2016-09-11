@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Popular-Movies-1</string>
+    <string name="sort_popularity">Sort by popularity</string>
+    <string name="sort_rating">Sort by user rating</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="release_date">
+        <![CDATA[
+        <b>Release Date: </b>
+        ]]>
+        </string>
+    <string name="average_rating">
+        <![CDATA[
+        <b>Average Rating:</b>
+        ]]>
+        </string>
+    <string name="overview">
+        <![CDATA[
+        <b>Synopsis: </b>
+        ]]>
+        </string>
+</resources>
