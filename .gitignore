@@ -1,9 +1,22 @@
+# Intellij
 *.iml
-.gradle
+
+# Local configuration file
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
+
+# Directory-based project format:
+.idea/
+
+# OSX
 .DS_Store
-/build
+
+# Android Studio
 /captures
-/gradle.properties
+
+# Gradle files
+.gradle
+/build
+
+# Generated files
+bin/
+gen/

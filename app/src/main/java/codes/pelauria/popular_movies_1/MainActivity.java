@@ -45,5 +45,6 @@ public class MainActivity extends AppCompatActivity {
         movieTask.execute(sortType);
     }
 
+    // TODO: Maintain scroll position when backing out of MovieDetailActivity
 
 }
