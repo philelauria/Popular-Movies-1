@@ -1,1 +1,10 @@
 language: android
+android:
+  components:
+    - tools
+    - build-tools-27.0.1
+    - platform-tools
+
+#install:
+#  # Build debug and release(run proguard)
+#  - ./gradlew clean assemble assembleDebugAndroidTest -Pci --stacktrace --scan
